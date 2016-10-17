@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SpotifySample</string>
+    <string name="error_timeout">Connection has timed out. \n Please try again.</string>
+    <string name="error_no_connection">Please check your internet connection.</string>
+    <string name="error_network">Servers are currently down. \n Please try after some time.</string>
+    <string name="error_generic">Something went wrong. Please try again. </string>
+    <string name="no_albums_text">No albums to display. \n Use \"SEARCH\" to search for albums.</string>
+    <string name="no_albums_search_result">No albums found. \n Please try with an other name.</string>
+</resources>
